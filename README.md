@@ -1,5 +1,5 @@
 # อาหาร
-pizza
+pizza,BarBQue
 # Student ID
 57122420558
 # Name
